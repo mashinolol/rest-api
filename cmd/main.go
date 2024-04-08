@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/mashinolol/rest-api/handler"
-	"github.com/mashinolol/rest-api/todo"
+	todo "github.com/mashinolol/rest-api"
+	"github.com/mashinolol/rest-api/pkg/handler"
 )
 
 func main() {
