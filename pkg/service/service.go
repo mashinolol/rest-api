@@ -1,5 +1,7 @@
 package service
 
+import "github.com/mashinolol/rest-api/pkg/repository"
+
 type Authorization interface {
 }
 
